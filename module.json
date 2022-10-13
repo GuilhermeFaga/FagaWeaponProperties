@@ -1,0 +1,14 @@
+{
+  "name": "fagawp",
+  "title": "Faga Weapon Properties",
+  "description": "Adds Faga new weapon properties",
+  "version": "0.1",
+  "author": "Faga",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["fagawp.js"],
+  "manifest": "https://raw.githubusercontent.com/GuilhermeFaga/FagaWeaponProperties/main/module.json",
+  "download": "https://github.com/GuilhermeFaga/FagaWeaponProperties/archive/main.zip",
+  "minimumCoreVersion": "0.8.2",
+  "compatibleCoreVersion": "0.8.2"
+}
